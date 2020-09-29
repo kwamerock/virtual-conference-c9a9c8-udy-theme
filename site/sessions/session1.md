@@ -1,0 +1,28 @@
+---
+title: "undefined"
+slug: "session1"
+collection-id: "5f739480a78a117b9df4e1a0"
+item-id: "5f73948c621ed21ad2d7dfa4"
+live-general-session: "false"
+live-breakout-1: ""
+live-breakout-2: ""
+live-breakout-3: ""
+live-breakout-4: ""
+live-breakout-5: ""
+datetime: "Wed Jul 21 2021 00:50:00 GMT+0000 (Coordinated Universal Time)"
+session-description: "Laudantium vitae voluptatum saepe. Sed sapiente id voluptatem. Est aut aliquam est explicabo impedit perferendis i"
+session-status-text: "LIVE"
+session-status-button-color: "hsla(359, 100.00%, 50.00%, 1.00)"
+replay-link: "https://vimeo.com/219302853"
+livestream-id: "Veritatis est dolor libero quos soluta. Debitis sapiente est rerum optio eum volupta"
+speaker-1: "suscipit-culpa-quia-aut"
+speaker-2: ""
+speaker-3: ""
+speaker-4: ""
+speaker-5: ""
+date: "2020-09-29T20:09:48.000Z"
+layout: "single-sessions.html"
+tags: "sessions"
+---
+
+

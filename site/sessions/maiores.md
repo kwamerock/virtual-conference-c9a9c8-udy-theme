@@ -1,0 +1,28 @@
+---
+title: "undefined"
+slug: "maiores"
+collection-id: "5f739480a78a117b9df4e1a0"
+item-id: "5f73948ca57bf3a0faeb3255"
+live-general-session: "false"
+live-breakout-1: ""
+live-breakout-2: ""
+live-breakout-3: ""
+live-breakout-4: ""
+live-breakout-5: ""
+datetime: "Mon Mar 30 2020 00:00:00 GMT+0000 (Coordinated Universal Time)"
+session-description: "Amet corporis vero unde reiciendis tenetur aliquam suscipit earum eaque. Ipsam itaque nesciunt et. Aut laborum rerum. "
+session-status-text: "Qui perspiciatis sunt accusamus. Non rerum rem nobis nostrum dolor fugiat alias deserunt perspiciatis. Quas sunt ullam hic molestiae earum "
+session-status-button-color: "#673AB7"
+replay-link: "https://vimeo.com/114900089"
+livestream-id: "Eos vero temporibus omnis tenetur officiis voluptatem adipisci. Consequatur possimus sed magnam. Porro quae paria"
+speaker-1: ""
+speaker-2: ""
+speaker-3: ""
+speaker-4: ""
+speaker-5: ""
+date: "2020-09-29T20:09:48.000Z"
+layout: "single-sessions.html"
+tags: "sessions"
+---
+
+

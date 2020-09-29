@@ -1,0 +1,28 @@
+---
+title: "undefined"
+slug: "session2"
+collection-id: "5f739480a78a117b9df4e1a0"
+item-id: "5f73948de9683792d212bc89"
+live-general-session: "true"
+live-breakout-1: ""
+live-breakout-2: ""
+live-breakout-3: ""
+live-breakout-4: ""
+live-breakout-5: ""
+datetime: "Thu Aug 19 2021 00:00:00 GMT+0000 (Coordinated Universal Time)"
+session-description: "Optio quis quis repellat temporibus et tempora nesciunt. Amet debitis sapiente sed qui. Nemo quibusdam repellendus"
+session-status-text: "At aut repellat quo iste laudantium temporibus reprehenderit dolorem ipsa. Assumenda odio et non omnis sed perspiciatis. Alias re"
+session-status-button-color: "hsla(359, 100.00%, 50.00%, 1.00)"
+replay-link: "https://vimeo.com/68481134"
+livestream-id: "Et eos explicabo id exercitationem consequatur. Aut voluptas quis illum consequuntur accusamus dolor. Iure "
+speaker-1: "suscipit-culpa-quia-aut"
+speaker-2: "debitis-numquam-dolor-sed"
+speaker-3: "omnis-quaerat"
+speaker-4: "quo-eos-non"
+speaker-5: ""
+date: "2020-09-29T20:09:49.000Z"
+layout: "single-sessions.html"
+tags: "sessions"
+---
+
+

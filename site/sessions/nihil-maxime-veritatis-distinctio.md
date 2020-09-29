@@ -1,0 +1,28 @@
+---
+title: "undefined"
+slug: "nihil-maxime-veritatis-distinctio"
+collection-id: "5f739480a78a117b9df4e1a0"
+item-id: "5f73948c1b8c30cec2fec201"
+live-general-session: "true"
+live-breakout-1: ""
+live-breakout-2: ""
+live-breakout-3: ""
+live-breakout-4: ""
+live-breakout-5: ""
+datetime: "Sun Feb 23 2020 00:00:00 GMT+0000 (Coordinated Universal Time)"
+session-description: "Rerum optio autem adipisci ut laudantium. Expedita voluptas dolore aperiam cum et qui atque illum. Ipsum commodi dolor"
+session-status-text: "Aut veritatis c"
+session-status-button-color: "#607D8B"
+replay-link: "https://www.youtube.com/watch?v=ipR6xq3ZjII&list=PLPmnoMVpkxfhSuCJx77M5ecapPhBHF0-v"
+livestream-id: "Molestiae temporibus ut sed itaque nam vero. Consequatur repellat natus sint vel "
+speaker-1: ""
+speaker-2: ""
+speaker-3: ""
+speaker-4: ""
+speaker-5: ""
+date: "2020-09-29T20:09:48.000Z"
+layout: "single-sessions.html"
+tags: "sessions"
+---
+
+
