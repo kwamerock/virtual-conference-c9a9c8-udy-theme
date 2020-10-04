@@ -2,6 +2,7 @@
   "name": "virtual-conference-c9a9c8-udy-theme",
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
+    "@auth0/auth0-spa-js": "^1.12.1",
     "glob": "^7.1.6",
     "sharp": "^0.24.0"
   },
